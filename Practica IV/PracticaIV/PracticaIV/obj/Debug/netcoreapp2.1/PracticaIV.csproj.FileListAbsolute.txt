@@ -1,0 +1,11 @@
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\obj\Debug\netcoreapp2.1\PracticaIV.csprojAssemblyReference.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\obj\Debug\netcoreapp2.1\PracticaIV.csproj.CoreCompileInputs.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\obj\Debug\netcoreapp2.1\PracticaIV.AssemblyInfoInputs.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\obj\Debug\netcoreapp2.1\PracticaIV.AssemblyInfo.cs
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\bin\Debug\netcoreapp2.1\PracticaIV.deps.json
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\bin\Debug\netcoreapp2.1\PracticaIV.runtimeconfig.json
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\bin\Debug\netcoreapp2.1\PracticaIV.runtimeconfig.dev.json
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\bin\Debug\netcoreapp2.1\PracticaIV.dll
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\bin\Debug\netcoreapp2.1\PracticaIV.pdb
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\obj\Debug\netcoreapp2.1\PracticaIV.dll
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica IV CS\PracticaIV\PracticaIV\obj\Debug\netcoreapp2.1\PracticaIV.pdb
