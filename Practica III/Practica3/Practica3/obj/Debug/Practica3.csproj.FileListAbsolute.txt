@@ -1,0 +1,14 @@
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica III\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica III\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica III\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica III\Practica3\Practica3\obj\Debug\Practica3.csprojAssemblyReference.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica III\Practica3\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica III\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica III\Practica3\Practica3\obj\Debug\Practica3.pdb
+E:\Robinson\UASD\CS\Practica III\Practica3\Practica3\obj\Debug\Practica3.csprojAssemblyReference.cache
+E:\Robinson\UASD\CS\Practica III\Practica3\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+E:\Robinson\UASD\CS\Practica III\Practica3\Practica3\obj\Debug\Practica3.exe
+E:\Robinson\UASD\CS\Practica III\Practica3\Practica3\obj\Debug\Practica3.pdb
+E:\Robinson\UASD\CS\Practica III\Practica3\Practica3\bin\Debug\Practica3.exe.config
+E:\Robinson\UASD\CS\Practica III\Practica3\Practica3\bin\Debug\Practica3.exe
+E:\Robinson\UASD\CS\Practica III\Practica3\Practica3\bin\Debug\Practica3.pdb
