@@ -1,0 +1,17 @@
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\obj\Debug\netcoreapp2.1\practica1.csprojAssemblyReference.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\obj\Debug\netcoreapp2.1\practica1.csproj.CoreCompileInputs.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\obj\Debug\netcoreapp2.1\practica1.AssemblyInfoInputs.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\obj\Debug\netcoreapp2.1\practica1.AssemblyInfo.cs
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\bin\Debug\netcoreapp2.1\practica1.deps.json
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\bin\Debug\netcoreapp2.1\practica1.runtimeconfig.json
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\bin\Debug\netcoreapp2.1\practica1.runtimeconfig.dev.json
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\bin\Debug\netcoreapp2.1\practica1.dll
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\bin\Debug\netcoreapp2.1\practica1.pdb
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\obj\Debug\netcoreapp2.1\practica1.dll
+C:\Robinson\Cursos\UASD\CS\Practica1\practica1\practica1\obj\Debug\netcoreapp2.1\practica1.pdb
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica I y II CS\practica1\obj\Debug\netcoreapp2.1\practica1.csprojAssemblyReference.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica I y II CS\practica1\obj\Debug\netcoreapp2.1\practica1.csproj.CoreCompileInputs.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica I y II CS\practica1\obj\Debug\netcoreapp2.1\practica1.AssemblyInfoInputs.cache
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica I y II CS\practica1\obj\Debug\netcoreapp2.1\practica1.AssemblyInfo.cs
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica I y II CS\practica1\obj\Debug\netcoreapp2.1\practica1.dll
+C:\Robinson\Cursos\UASD\CS\Practica1\Practica I y II CS\practica1\obj\Debug\netcoreapp2.1\practica1.pdb
